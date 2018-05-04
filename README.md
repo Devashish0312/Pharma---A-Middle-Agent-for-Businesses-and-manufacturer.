@@ -2,4 +2,4 @@ This Application uses Mysql as database, MaterializeCSS as frontend UI and JDBC 
 
 
 ![ScreenShot](./Screen.png)
-![ScreenShot](./screen2.png)
+![ScreenShot](./screen2.PNG)
